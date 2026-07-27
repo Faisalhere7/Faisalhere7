@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=560&lines=Building+scalable+MERN+stack+applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;End-to-end+dashboards+%26+e-commerce+platforms" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=1F3864&center=true&vCenter=true&width=600&lines=Building+scalable+MERN+stack+applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;End-to-end+dashboards+%26+e-commerce+platforms;Turning+ideas+into+production-ready+products" />
 </p>
 
 <p align="center">
@@ -16,13 +16,16 @@
   <a href="https://github.com/Faisalhere7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Faisalhere7&style=for-the-badge&color=1F3864&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,100:4A90D9&height=3&width=100%" />
 </p>
 
-### 🚀 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=1F3864&height=55&section=header&text=About%20Me&fontSize=26&fontColor=1F3864&fontAlignY=70" />
+</p>
 
 - 🔭 Currently working as a **Full Stack Developer (MERN Stack)** at **SYB Ecosystem** (UK-based)
 - 🌱 Building scalable web applications with **React, Next.js, Node.js, Express.js & MongoDB**
@@ -34,7 +37,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,100:4A90D9&height=3&width=100%" />
 </p>
 
-### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=1F3864&height=55&section=header&text=Tech%20Stack&fontSize=26&fontColor=1F3864&fontAlignY=70" />
+</p>
 
 **Frontend**
 <p>
@@ -72,40 +77,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,100:4A90D9&height=3&width=100%" />
 </p>
 
-### 📊 GitHub Activity
-
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Faisalhere7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisalhere7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=1F3864&height=55&section=header&text=Featured%20Projects&fontSize=26&fontColor=1F3864&fontAlignY=70" />
 </p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Faisalhere7&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faisalhere7&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Faisalhere7/Faisalhere7/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,100:4A90D9&height=3&width=100%" />
-</p>
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Faisalhere7&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,100:4A90D9&height=3&width=100%" />
-</p>
-
-### 💼 Featured Projects
 
 | Project | Description |
 |---|---|
@@ -125,55 +99,30 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,100:4A90D9&height=3&width=100%" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=1F3864&height=55&section=header&text=Let's%20Connect&fontSize=26&fontColor=1F3864&fontAlignY=70" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/faisal-iqbal-259486309">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:faisalhere0350@gmail.com">
+    <img src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>⭐ Thanks for visiting my profile — feel free to explore my repositories!</i></p>
+
 <details>
-<summary><b>⚙️ One-time setup notes (click to expand — not shown by default)</b></summary>
+<summary><b>⚙️ One-time setup notes (click to expand)</b></summary>
 <br>
 
 **1. Create the profile repo**
 Create a public repo named exactly `Faisalhere7` (same as your username) and put this `README.md` inside it. GitHub pins it to your profile automatically.
 
-**2. Stats/trophy cards populate on their own**
-These cards read your public repos + contribution history. They fill in automatically once you have a few public repos with commits — no extra action needed.
-
-**3. Enable the animated snake**
-- In the `Faisalhere7` repo, create `.github/workflows/snake.yml` with the workflow below.
-- Repo → Settings → Actions → General → set to "Allow all actions."
-- Actions tab → "Generate Snake Animation" → Run workflow (first time only).
-- It creates an `output` branch with the SVG the README already links to — after that it refreshes daily on its own.
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push output to "output" branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
+**2. Profile view counter & badges**
+These populate instantly — no setup needed beyond creating the repo.
 
 </details>
 
