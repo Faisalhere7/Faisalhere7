@@ -36,14 +36,36 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=light" />
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,mysql,redis&theme=light" />
+
+**Backend & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,firebase,wordpress,linux,vscode&theme=light" />
+
+**Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <p align="center">
@@ -53,7 +75,7 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Faisalhere7&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Faisalhere7&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisalhere7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -98,6 +120,62 @@
 | **Apply Visas** | Multi-step UK visa application portal with document submission |
 
 <sub>*Mix of client/company projects and independent work.*</sub>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F3864,100:4A90D9&height=3&width=100%" />
+</p>
+
+<details>
+<summary><b>⚙️ One-time setup notes (click to expand — not shown by default)</b></summary>
+<br>
+
+**1. Create the profile repo**
+Create a public repo named exactly `Faisalhere7` (same as your username) and put this `README.md` inside it. GitHub pins it to your profile automatically.
+
+**2. Stats/trophy cards populate on their own**
+These cards read your public repos + contribution history. They fill in automatically once you have a few public repos with commits — no extra action needed.
+
+**3. Enable the animated snake**
+- In the `Faisalhere7` repo, create `.github/workflows/snake.yml` with the workflow below.
+- Repo → Settings → Actions → General → set to "Allow all actions."
+- Actions tab → "Generate Snake Animation" → Run workflow (first time only).
+- It creates an `output` branch with the SVG the README already links to — after that it refreshes daily on its own.
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push output to "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90D9,100:1F3864&height=120&section=footer" />
