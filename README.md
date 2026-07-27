@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Faisal Iqbal</h1>
-<h3 align="center">Full Stack Software Engineer | MERN Stack Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:4A90D9&height=180&section=header&text=Faisal%20Iqbal&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Engineer%20|%20MERN%20Stack%20Developer&descSize=18&descAlignY=58" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/faisal-iqbal-259486309">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1F3864&center=true&vCenter=true&width=500&lines=Building+scalable+MERN+stack+applications;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;End-to-end+dashboards+%26+e-commerce+platforms" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/faisal-iqbal-259486309">
@@ -62,13 +69,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Faisalhere7&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisalhere7&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Faisalhere7&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faisalhere7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faisalhere7&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Faisalhere7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+> ℹ️ If the cards above appear blank, it's usually because the profile has no public repositories/activity yet for these free widget services to read — they'll populate automatically once you have public repos with commits. This is common right after creating a fresh profile repo.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Faisalhere7/Faisalhere7/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+</p>
+
+<sub>*The animated snake above requires a one-time GitHub Actions setup — see below.*</sub>
 
 ---
 
@@ -76,10 +91,17 @@
 
 | Project | Description |
 |---|---|
+| **SYB Ecosystem Dashboard** | Complete end-to-end dashboard system for admins & clients — covers full workflow from brand onboarding to Stripe payment processing |
+| **Seth SYB** | E-commerce platform for a perfume brand, with a full admin panel and user dashboards |
+| **Discount Oye** | E-commerce platform with product listings, cart, and order management |
+| **Brand Booster** | Influencer marketing dashboard — complete A–Z admin & brand dashboards for campaign management |
+| **Algo ERP** | Contributed to a complete ERP system (demo available) |
 | **Study2Uni** | Education platform (React + Laravel) with programme listings, applications & admin dashboard |
 | **Solicitors Chambers** | Legal services platform (Next.js) with solicitor & case management |
 | **Hedayat Quran Academy** | CMS-based education platform with role-based dashboards & scheduling |
 | **Apply Visas** | Multi-step UK visa application portal with document submission |
+
+<sub>*Mix of client/company projects and independent work.*</sub>
 
 ---
 
