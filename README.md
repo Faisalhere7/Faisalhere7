@@ -27,7 +27,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=1F3864&height=55&section=header&text=About%20Me&fontSize=26&fontColor=1F3864&fontAlignY=70" />
 </p>
 
-- 🔭 Currently working as a **Full Stack Developer (MERN Stack)** at **SYB Ecosystem** (UK-based)
+- 🔭 Currently working as a **Software Engineer (MERN Stack)** at **SYB** (UK-based)
 - 🌱 Building scalable web applications with **React, Next.js, Node.js, Express.js & MongoDB**
 - 💼 Experience across full-stack development, DevOps, and deployment management
 - 🌍 Based in Pakistan | Worked with teams across UK, Canada & Luxembourg
